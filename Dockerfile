@@ -16,4 +16,3 @@ COPY ./app /app
 
 RUN adduser -D avk
 USER avk
-
